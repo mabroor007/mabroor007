@@ -14,6 +14,9 @@ I am
 |_| |_| |_|\__,_|_.__/|_|  \___/ \___/|_|        \__,_|_| |_|_| |_| |_|\__,_|\__,_|
 
 </pre>                                      
+
+I love robotics, networking, system design and artificial intelligence. I will see where my love takes me.
+
 - 🔭 I’m currently working on Nodejs 
 - 🌱 I’m currently learning System Design
 - 👯 I’m looking to collaborate on web projects
