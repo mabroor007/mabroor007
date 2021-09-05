@@ -20,6 +20,7 @@ I love robotics, networking, system design and artificial intelligence. I will s
 - 🔭 I’m currently working on Nodejs 
 - 🌱 I’m currently learning System Design
 - 👯 I’m looking to collaborate on web projects
-- 🤔 I’m actively looking for a remote job
 
 Email : amabroor007@gmail.com
+
+I work at Dabble Lab.
