@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 I am 
-<pre>
+<pre style="display: inline-block;">
                  _                                     _                         _ 
  _ __ ___   __ _| |__  _ __ ___   ___  _ __       __ _| |__  _ __ ___   __ _  __| |
 | '_ ` _ \ / _` | '_ \| '__/ _ \ / _ \| '__|     / _` | '_ \| '_ ` _ \ / _` |/ _` |
